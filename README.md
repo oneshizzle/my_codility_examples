@@ -1,2 +1,3 @@
 # my_codility_examples
-a repo to track my codility practices
+A repo to track my codility practice sessions. 
+
